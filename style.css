@@ -1,3 +1,4 @@
+/* Estilos generales */
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f8;
@@ -98,13 +99,6 @@ main {
   margin-bottom: 1rem;
 }
 
-.lectura-sugerida {
-  background-color: #f0f8ff;
-  border-left: 5px solid #87ceeb;
-  padding: 1rem;
-  margin-bottom: 1rem;
-}
-
 .pregunta {
   background-color: #e6f4ff;
   border-left: 5px solid #55bbee;
@@ -126,14 +120,6 @@ main {
   margin-bottom: 1.5rem;
 }
 
-.versiculo p,
-.pregunta p,
-.respuesta p,
-.cita p,
-.lectura-sugerida p {
-  margin: 0.5rem 0;
-}
-
 .reflexion-final {
   background: #fbefff;
   border-left: 5px solid #cc66cc;
@@ -152,3 +138,4 @@ main {
   margin-bottom: 15px;
   text-align: justify;
 }
+
